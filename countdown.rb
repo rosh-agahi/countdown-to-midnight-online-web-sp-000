@@ -2,6 +2,6 @@
 
 count = 10
 def countdown(count)
-  puts ""
+  puts "#{count} SECONDS!"
   
 end
