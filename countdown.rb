@@ -1,4 +1,7 @@
 #write your code here
 
-def countdown
+count = 10
+def countdown(count)
+  puts ""
+  
 end
